@@ -16,9 +16,9 @@ keep_files:
 # Site settings
 title: TOMS
 subtitle: "Superb visibility – superior technology"
-url: "http://roamworks.com/" # the base hostname & protocol for your site
+url: "http://roamworks.com/toms/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/toms/"
+baseurl: "/toms"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
